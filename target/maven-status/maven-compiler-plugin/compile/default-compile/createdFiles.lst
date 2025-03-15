@@ -1,0 +1,5 @@
+com/example/oci_microservice/model/User.class
+com/example/oci_microservice/controller/UserController.class
+com/example/oci_microservice/OciMicroserviceApplication.class
+com/example/oci_microservice/service/UserService.class
+com/example/oci_microservice/repository/UserRepository.class
